@@ -1,3 +1,9 @@
+## Demo
+
+Watch the project demo here:
+
+https://youtu.be/gLG_IcMgJJ0
+
 # Python Slot Machine
 
 A simple console-based slot machine game built with Python.
